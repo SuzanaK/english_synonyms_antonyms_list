@@ -1,7 +1,7 @@
 english_synonyms_antonyms_list
 ==============================
 
-List of English synonyms and antonyms parsed from the public domain book of James C. Fernald, 1896
+List of English synonyms and antonyms from the public domain book of James C. Fernald, 1896
 
 The book is available at: http://www.gutenberg.org/files/28900/28900-h/28900-h.htm
 
